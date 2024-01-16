@@ -1,0 +1,25 @@
+.row{
+    border: 2px solid blue;
+    height: 200px;
+    padding: 20px;
+}
+
+.col-3{
+    border:8px dashed chocolate;
+    text-align: center;
+    
+    
+ }
+
+ .col-3 p{
+    font-size: 50px;
+
+ }
+ .impar{
+    background-color: red;
+ }
+ .par{
+    background-color: blue;
+ }
+
+ 
